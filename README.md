@@ -24,6 +24,8 @@ As of December 2021, my coding journey has been fruitful. I have progressed from
 - [Archery](https://github.com/CodeMaster7000/Archery)
 - [Football Field](https://github.com/CodeMaster7000/Football-Field)
 - [Space Shooter](https://github.com/CodeMaster7000/Space-Shooter-Game)
+- [Catch the Ball - Python](https://github.com/CodeMaster7000/Catch-the-Ball)
+- [Catch the Ball - HTML, CSS and JS](https://github.com/CodeMaster7000/Catch-the-Ball-HTML-CSS-JS)
 - [Snowman](https://github.com/CodeMaster7000/Snowman)
 - [Car Driving Simulator](https://github.com/CodeMaster7000/Car-Driving-Simulator)
 - [Team Project by NetFruit Technologies - InvenMania](https://github.com/NetFruit-Technologies/InvenMania)
