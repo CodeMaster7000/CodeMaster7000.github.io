@@ -1,5 +1,5 @@
 # Welcome
-Welcome to my Github open-source webpage. It is a page of wonder where you will find some of my major projects. I have either made these on my own, used help from the internet, or collaborated on these with some of my friends (such as SmashedFrenzy16). Take a look at my [Github profile](https://github.com/CodeMaster7000) and my [Github Gist profile](https://gist.github.com/CodeMaster7000) to see all of my projects!
+Welcome to my Github open-source webpage. It is a page of wonder where you will find some of my major projects. I have either made these on my own, used help from the internet, or collaborated on these with some of my friends (such as SmashedFrenzy16). Take a look at my [Github Profile](https://github.com/CodeMaster7000) and my [Github Gist Profile](https://gist.github.com/CodeMaster7000) to see all of my projects!
 
 # Major Projects (2021)
 - [Typing Test](https://github.com/CodeMaster7000/Typing-Test)
