@@ -28,6 +28,7 @@ As of December 2021, my coding journey has been fruitful. I have progressed from
 - [Catch the Ball - HTML, CSS and JS](https://github.com/CodeMaster7000/Catch-the-Ball-HTML-CSS-JS)
 - [Snowman](https://github.com/CodeMaster7000/Snowman)
 - [Car Driving Simulator](https://github.com/CodeMaster7000/Car-Driving-Simulator)
+- [Queen Elizabeth II's Crown Memorial](https://github.com/CodeMaster7000/Queen-Elizabeth-II-Crown-Memorial)
 - [Team Project by NetFruit Technologies - InvenMania](https://github.com/NetFruit-Technologies/InvenMania)
 
 # Contact/Support
