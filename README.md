@@ -10,7 +10,7 @@ Welcome to my Github open-source webpage. It is a page of wonder where you will 
 - [Space Invaders](https://github.com/CodeMaster7000/Pygame-Space-Invaders)
 - [Snake (JavaScript, HTML, CSS)](https://github.com/CodeMaster7000/Snake)
 - [Snake (Python)](https://github.com/CodeMaster7000/Turtle_Snake_Game)
-- [Adventure Game](https://github.com/CodeMaster7000/Adventure-Game)
+- [Adventure Game](https://github.com/CodeMaster7000/Adventure-Game))
 - [Analogue Clock](https://github.com/CodeMaster7000/Analogue-Clock)
 - [Graphical Calculator](https://github.com/CodeMaster7000/Graphical-Calculator)
 - [Christmas Card](https://github.com/CodeMaster7000/Merry-Christmas)
@@ -28,6 +28,7 @@ As of December 2021, my coding journey has been fruitful. I have progressed from
 - [Catch the Ball - HTML, CSS and JS](https://github.com/CodeMaster7000/Catch-the-Ball-HTML-CSS-JS)
 - [Snowman](https://github.com/CodeMaster7000/Snowman)
 - [Car Driving Simulator](https://github.com/CodeMaster7000/Car-Driving-Simulator)
+- [Stunning Developer Website Layout](https://github.com/CodeMaster7000/Stunning-Developer-Website-Layout)
 - [Queen Elizabeth II's Crown Memorial](https://github.com/CodeMaster7000/Queen-Elizabeth-II-Crown-Memorial)
 - [Team Project by NetFruit Technologies - InvenMania](https://github.com/NetFruit-Technologies/InvenMania)
 
