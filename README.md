@@ -32,5 +32,5 @@ As of December 2021, my coding journey has been fruitful. I have progressed from
 - [Queen Elizabeth II's Crown Memorial](https://github.com/CodeMaster7000/Queen-Elizabeth-II-Crown-Memorial)
 - [Team Project by NetFruit Technologies - InvenMania](https://github.com/NetFruit-Technologies/InvenMania)
 
-# Contact/Support
+# How to reach me
 If you have any queries related to coding, please refer to the "Where can you follow me?" section of my [Github profile](https://github.com/CodeMaster7000). I would be happy to help.
