@@ -33,5 +33,12 @@ Welcome to my Github open-source webpage. It is a page of wonder where you will 
 - [Language Detector](https://github.com/CodeMaster7000/Language-Detector)
 - [Team Project by NetFruit Technologies - InvenMania](https://github.com/NetFruit-Technologies/InvenMania)
 
+### My fields of expertise
+
+- I can code in Python, JavaScript and some C++.
+- I like to tinker in other languages.
+- I am an intermediate photographer and photo editor.
+- I can use Blender at a beginner's level.
+
 # How to reach me
 If you have any queries related to coding, please refer to the "Where can you follow me?" section of my [Github profile](https://github.com/CodeMaster7000). I would be happy to help.
