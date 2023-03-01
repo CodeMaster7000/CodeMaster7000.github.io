@@ -1,4 +1,7 @@
 # Welcome
+
+![CodeMaster7000 Summary Overview](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=CodeMaster7000)
+
 Welcome to my Github open-source webpage. It is a page of wonder where you will find some of my major projects. I have either made these on my own, used help from the internet, or collaborated on these with some of my friends. Take a look at my [Github Profile](https://github.com/CodeMaster7000) and my [Github Gist Profile](https://gist.github.com/CodeMaster7000) to see all of my projects!
 
 # Major Projects
