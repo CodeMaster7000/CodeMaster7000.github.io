@@ -36,7 +36,7 @@ Welcome to my Github open-source webpage. It is a page of wonder where you will 
 ## My fields of expertise
 
 - I can code in Python, JavaScript and some C++.
-- I like to tinker in other languages.
+- I like to tinker with other languages.
 - I am an intermediate photographer and photo editor.
 - I can use Blender at a beginner's level.
 
