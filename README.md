@@ -21,7 +21,7 @@ Welcome to my Github open-source webpage. It is a page of wonder where you will 
 - [Space Shooter](https://github.com/CodeMaster7000/Space-Shooter-Game)
 - [Catch the Ball - Python](https://github.com/CodeMaster7000/Catch-the-Ball)
 - [Catch the Ball - HTML, CSS and JS](https://github.com/CodeMaster7000/Catch-the-Ball-HTML-CSS-JS)
-- [Snowman](https://github.com/CodeMaster7000/Snowman)
+- [Season's Greetings Decor](https://github.com/CodeMaster7000/Seasons-Greetings-Decor)
 - [Car Driving Simulator](https://github.com/CodeMaster7000/Car-Driving-Simulator)
 - [Queen Elizabeth II's Crown Memorial](https://github.com/CodeMaster7000/Queen-Elizabeth-II-Crown-Memorial)
 - [Advent of Code 2022](https://github.com/CodeMaster7000/Advent-of-Code-2022)
