@@ -31,11 +31,13 @@ Welcome to my Github open-source webpage. It is a page of wonder where you will 
 - [Voice Commands Tools](https://github.com/CodeMaster7000/Voice-Commands-Tools)
 - [Password Strength Meter](https://github.com/CodeMaster7000/Password-Strength-Meter)
 - [Language Detector](https://github.com/CodeMaster7000/Language-Detector)
+- [C++ Projects](https://github.com/CodeMaster7000/CPP-Projects)
 - [Team Project by NetFruit Technologies - InvenMania](https://github.com/NetFruit-Technologies/InvenMania)
 
 ## My fields of expertise
 
-- I can code in Python, JavaScript and some C++.
+- I am fluent in Python and JavaScript.
+- I am currently learning C++.
 - I like to tinker with other languages.
 - I am an intermediate photographer and photo editor.
 - I can use Blender at a beginner's level.
