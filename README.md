@@ -32,7 +32,7 @@ Welcome to my Github open-source webpage. It is a page of wonder where you will 
 - [Password Strength Meter](https://github.com/CodeMaster7000/Password-Strength-Meter)
 - [Language Detector](https://github.com/CodeMaster7000/Language-Detector)
 - [C++ Projects](https://github.com/CodeMaster7000/CPP-Projects)
-- [Credit_Card_Validator](https://github.com/Credit_Card_Validator)
+- [Credit_Card_Validator](https://github.com/CodeMaster7000/Credit_Card_Validator)
 - [Team Project by NetFruit Technologies - InvenMania](https://github.com/NetFruit-Technologies/InvenMania)
 
 ## My fields of expertise
