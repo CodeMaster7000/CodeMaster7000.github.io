@@ -6,6 +6,7 @@ Welcome to my Github open-source webpage. It is a page of wonder where you will 
 
 ## Major Projects
 - [Turtle_Flags_File_Hub](https://github.com/CodeMaster7000/Turtle_Flags_File_Hub)
+- [Typing Test](https://github.com/CodeMaster7000/Typing-Test)
 - [Tetris](https://github.com/CodeMaster7000/Tetris)
 - [Tic Tac Toe](https://github.com/CodeMaster7000/Tic-Tac-Toe)
 - [Bubble Blaster](https://github.com/CodeMaster7000/Bubble-Blaster)
