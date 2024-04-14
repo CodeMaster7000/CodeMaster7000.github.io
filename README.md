@@ -42,10 +42,6 @@ Welcome to my Github open-source webpage. It is a page of wonder where you will 
 - I am an intermediate photographer and photo editor.
 - I can use Blender at a beginner's level.
 
-## Overview & Outlook
-
-2022 can be considered my most successful year on Github so far. I committed very frequently to GitHub and explored other aspects such as Github Gists. With your help, I crossed 50, 100, and 200 followers all in the same year, complemented with hundreds of stars and several forks. Please continue supporting me by [following me](https://github.com/CodeMaster7000), as well as starring and forking my repos. 2023 will be jam packed with even more projects, as well as the new creation of TechDreams Innovations. With your help, the sky is the limit!
-
 ## How to reach me
 
 If you have any queries related to coding, please refer to the "Where can you follow me?" section of my [Github profile](https://github.com/CodeMaster7000). I would be happy to help!
