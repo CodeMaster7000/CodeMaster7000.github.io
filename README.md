@@ -27,12 +27,15 @@ Welcome to my Github open-source webpage. It is a page of wonder where you will 
 - [Car Driving Simulator](https://github.com/CodeMaster7000/Car-Driving-Simulator)
 - [Queen Elizabeth II's Crown Memorial](https://github.com/CodeMaster7000/Queen-Elizabeth-II-Crown-Memorial)
 - [Advent of Code 2022](https://github.com/CodeMaster7000/Advent-of-Code-2022)
+- [Advent of Code 2023](https://github.com/CodeMaster7000/Advent_of_Code_2023_Solutions)
 - [Voice Commands Tools](https://github.com/CodeMaster7000/Voice-Commands-Tools)
 - [Password Strength Meter](https://github.com/CodeMaster7000/Password-Strength-Meter)
 - [Language Detector](https://github.com/CodeMaster7000/Language-Detector)
 - [C++ Projects](https://github.com/CodeMaster7000/CPP-Projects)
 - [Credit_Card_Validator](https://github.com/CodeMaster7000/Credit_Card_Validator)
 - [Team Project by NetFruit Technologies - InvenMania](https://github.com/NetFruit-Technologies/InvenMania)
+- [NTT - SpiderOS](https://github.com/NTT-Companies-Group/SpiderOS)
+- [TradeR - Smart Trading](https://github.com/CodeMaster7000/TradeR)
 
 ## My fields of expertise
 
