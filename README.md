@@ -36,6 +36,7 @@ Welcome to my Github open-source webpage. It is a page of wonder where you will 
 - [Team Project by NetFruit Technologies - InvenMania](https://github.com/NetFruit-Technologies/InvenMania)
 - [NTT - SpiderOS](https://github.com/NTT-Companies-Group/SpiderOS)
 - [TradeR - Smart Trading](https://github.com/CodeMaster7000/TradeR)
+- [TweetR](https://github.com/CodeMaster7000/TweetR)
 
 ## My fields of expertise
 
